@@ -1,7 +1,9 @@
 const mouse = document.querySelector("#mydiv");
 
 mouse.style.backgroundColor = "grey";
+
 mouse.style.width = "200px";
+
 mouse.style.height = "200px";
 
 mouse.addEventListener("click" , e => {
